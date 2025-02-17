@@ -19,3 +19,4 @@ This app tries to give a little insight to it and it is not financial advice AGA
 Interfaces used: 1-EDGAR Application Programming Interfaces.
 
                  2-yahoo finance.
+
