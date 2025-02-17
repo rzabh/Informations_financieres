@@ -1,5 +1,5 @@
 
-This is a demo of my idea for a public companies security infor verifer app.
+This is a demo of my idea for a public companies security info verifer app.
 
 Disclaimer:"Do not use this app to make financial decision. I made this as an exercise, this version in github is incomplete and will contain errors, therefore do not 
 make your trading decisions based on it and consult to a financial advisor."
@@ -19,4 +19,6 @@ This app tries to give a little insight to it and it is not financial advice AGA
 Interfaces used: 1-EDGAR Application Programming Interfaces.
 
                  2-yahoo finance.
+
+3- AI interface is incomplete here, needs an AI-API service for buisness to be fully applicable or a local comprehensive AI finance model. 
 
