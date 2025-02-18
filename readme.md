@@ -4,7 +4,7 @@ This is a demo of my idea for a public companies security info verifer app.
 
 1- first problem addressed in the demo: There are times that the amount security of a ticker traded on Nasdaq stock exchange and Market cap associated with a stock 
 is not exactly what it seems. You might miss an 8K form, which shows significant amount of change in outstanding shares.
-This app tries to give a little insight to it and it is not financial advice AGAIN!.   
+This app tries to give a little insight to it (Not financial advice).   
 
 ![Image](https://github.com/user-attachments/assets/64da117c-a8d2-4bd8-ab00-e292810229f4)
 
