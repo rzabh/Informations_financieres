@@ -1,5 +1,5 @@
 
-This is a presentation of my idea for a public companies security info verifer app.
+This is a presentation of a small part of my idea for a public companies security info verifer app.
 
 
 1- first problem addressed in the presentation: There are times that the amount security of a ticker traded on Nasdaq  and Market cap associated with a stock 
