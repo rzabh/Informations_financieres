@@ -18,5 +18,5 @@ Interfaces used: 1-EDGAR Application Programming Interfaces.
 
                  2-yahoo finance.
 
-3- AI interface is incomplete here, needs an AI-API service for buisness to be fully applicable or a local comprehensive AI finance model. 
+3- AI interface is incomplete here, needs an AI-API service for business to be fully applicable or a local comprehensive AI finance model. 
 
